@@ -1,4 +1,4 @@
-#subscription-userinfo: expire=108774;
+#subscription-userinfo: expire=20022026;
 #announce: ‼️НЕ РАБОТАЕТ ВПН = ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТГ ДЛЯ СВЯЗИ @alissxqwxℹ️
 #support-url: https://t.me/alissxqwx
 #profile-title: childhood VPN
