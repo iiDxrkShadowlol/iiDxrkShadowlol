@@ -1,3 +1,4 @@
+#notification-subs-expire: 3
 #subscription-userinfo: expire=1770879600
 #announce: ‼️НЕ РАБОТАЕТ ВПН = ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТГ ДЛЯ СВЯЗИ @alissxqwxℹ️
 #support-url: https://t.me/alissxqwx
