@@ -1,0 +1,4 @@
+#profile-update-interval: 1
+vless://fea85e6f-752c-0bb8-95ab-c9a3ab4c6acc@5.188.141.176:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE
+vless://1@1:443?security=none&encryption=none&headerType=none&type=tcp#%E2%80%BC%EF%B8%8F%D0%9D%D0%95%20%D0%A0%D0%90%D0%91%D0%9E%D0%A2%D0%90%D0%95%D0%A2%20%D0%92%D0%9F%D0%9D%20%3D%20%D0%9E%D0%91%D0%9D%D0%9E%D0%92%D0%98%D0%A2%D0%95%20%D0%9F%D0%9E%D0%94%D0%9F%D0%98%D0%A1%D0%9A%D0%A3%20%E2%80%BC%EF%B8%8F
+vmess://eyJhZGQiOiIxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi4oS577iP0KLQkyDQlNCb0K8g0KHQktCv0JfQmCBAYWxpc3N4cXd44oS577iPIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
