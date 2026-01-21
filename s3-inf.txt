@@ -1,0 +1,9 @@
+#ot3ts
+#announce: ‼️НЕ РАБОТАЕТ ВПН — ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТЕХ. ПОДДЕРЖКА — @childgotheadacheℹ️ 🔥ПОДПИСКА №S2-INF🔥
+#support-url: https://t.me/childgotheadache
+#profile-title: childhood VPN
+#profile-update-interval: 1
+vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=%2Fpanika&security=none&encryption=none&host=m.vk.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA
+vless://fea85e6f-752c-0bb8-95ab-c9a3ab4c6acc@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B5%F0%9F%87%B1
+vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B7%F0%9F%87%BA
+vless://fea85e6f-752c-03e8-95ab-c9a3ab4c6acc@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%A9%F0%9F%87%AA
