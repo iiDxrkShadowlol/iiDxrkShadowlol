@@ -1,5 +1,8 @@
 #adelya tinkoff
-#announce: ‼️НЕ РАБОТАЕТ ВПН — ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТЕХ. ПОДДЕРЖКА — @childgotheadacheℹ️ 🔥ПОДПИСКА №S5-INF🔥
+#announce: аделя я люблю тебя ‼️НЕ РАБОТАЕТ ВПН — ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТЕХ. ПОДДЕРЖКА — @childgotheadacheℹ️ 🔥ПОДПИСКА №S5-INF🔥
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
+vless://fea85e6f-752c-0bb8-95ab-c9a3ab4c6acc@morgentop.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE
+vless://fea85e6f-752c-03e8-95ab-c9a3ab4c6acc@morgentop.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AA
+vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@morgentop.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA
