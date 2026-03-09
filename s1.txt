@@ -1,6 +1,6 @@
 #ilyanap t2
 #notification-subs-expire: 3
-#subscription-userinfo: expire=1773682143
+#subscription-userinfo: expire=1776319200
 #announce: ‼️НЕ РАБОТАЕТ ВПН — ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТГ ДЛЯ ОПЛАТЫ, ТЕХ. ПОДДЕРЖКА — @childgotheadacheℹ️ 💳ОПЛАТА НА КАРТУ (500₽) С КОММЕНТАРИЕМ К ПЛАТЕЖУ ВАШЕГО НОМЕРА ПОДПИСКИ💳 🔥ПОДПИСКА №S1🔥
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
