@@ -3,7 +3,7 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
-vless://199a78a5-b4d4-4064-a0db-bb37c5839134@212.192.31.146:443?path=%2Fpanika&security=none&encryption=none&host=m.vk.com&type=ws#%F0%9F%87%A9%F0%9F%87%AA
-vless://fea85e6f-752c-0bb8-95ab-c9a3ab4c6acc@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B5%F0%9F%87%B1
-vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%B7%F0%9F%87%BA
-vless://fea85e6f-752c-03e8-95ab-c9a3ab4c6acc@lk-cdn.deploy-assure.ru:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#%F0%9F%87%A9%F0%9F%87%AA
+vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@109.120.191.66:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%D0%AD%D0%BA%D1%81%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20t2
+vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@109.120.191.66:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA
+vless://fea85e6f-752c-01f4-95ab-c9a3ab4c6acc@g.ilovemax.ru:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AA
+vless://fea85e6f-752c-2710-95ab-c9a3ab4c6acc@109.120.191.66:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B5%F0%9F%87%B1
