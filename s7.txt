@@ -1,9 +1,0 @@
-#t2
-#notification-subs-expire: 3
-#subscription-userinfo: expire=1775455200
-#announce: ‼️НЕ РАБОТАЕТ ВПН — ОБНОВИТЕ ПОДПИСКУ ‼️ ℹ️ТГ ДЛЯ ОПЛАТЫ, ТЕХ. ПОДДЕРЖКА — @childgotheadacheℹ️ 💳ОПЛАТА НА КАРТУ (500₽) С КОММЕНТАРИЕМ К ПЛАТЕЖУ ВАШЕГО НОМЕРА ПОДПИСКИ💳 🔥ПОДПИСКА №S7🔥
-#support-url: https://t.me/childgotheadache
-#profile-title: childhood VPN
-#profile-update-interval: 1
-vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@ilovemax.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA
-vless://fea85e6f-752c-03e8-95ab-c9a3ab4c6acc@g.ilovemax.ru:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AA
