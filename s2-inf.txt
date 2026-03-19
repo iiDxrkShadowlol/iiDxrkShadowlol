@@ -3,6 +3,6 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
-vless://fea85e6f-752c-01f4-95ab-c9a3ab4c6acc@filter.ilovemax.ru:52006?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AA
-vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@nw.ilovemax.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA
-vless://fea85e6f-752c-2af8-95ab-c9a3ab4c6acc@5.188.141.170:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#%F0%9F%87%AA%F0%9F%87%AA
+vless://e94c3272-0264-0005-a4a7-fb1ecf1e6b1a@84.23.53.91:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#%F0%9F%87%B9%F0%9F%87%B7
+vless://fea85e6f-752c-1f40-95ab-c9a3ab4c6acc@inost.minerscrafters.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B3%F0%9F%87%B1
+vless://fea85e6f-752c-2710-95ab-c9a3ab4c6acc@inost.minerscrafters.ru:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%B5%F0%9F%87%B1
