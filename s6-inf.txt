@@ -3,6 +3,6 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
-vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@anti-vpn.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%B7%F0%9F%87%BA
-vless://fea85e6f-752c-2710-95ab-c9a3ab4c6acc@anti-vpn.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%B5%F0%9F%87%B1
-vless://fea85e6f-752c-0bb8-95ab-c9a3ab4c6acc@anti-vpn.ru:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=anti-vpn.ru#%F0%9F%87%AB%F0%9F%87%AE
+vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@84.23.53.91:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA
+vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@37.139.35.18:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1
+vless://e94c3272-0264-0005-a4a7-fb1ecf1e6b1a@37.139.35.18:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#%F0%9F%87%B9%F0%9F%87%B7
