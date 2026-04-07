@@ -5,6 +5,11 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
-vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@84.23.53.91:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#%F0%9F%87%B7%F0%9F%87%BA
-vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@37.139.35.18:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43dcff53849b81e6#%F0%9F%87%B3%F0%9F%87%B1
-vless://e94c3272-0264-0005-a4a7-fb1ecf1e6b1a@37.139.35.18:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=43dcff53849b81e6#%F0%9F%87%B9%F0%9F%87%B7
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@217.16.18.150:7890?security=reality&encryption=none&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B5%F0%9F%87%B1
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@217.16.18.150:7891?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B5%F0%9F%87%B1
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.21.69:7888?security=reality&encryption=none&pbk=KqwJrFbgySFbm6C_1VcwQVRRGyUK24kCIBMEQna-5ws&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=bad5722c72a0#%F0%9F%87%AB%F0%9F%87%AE
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.21.69:7889?mode=auto&path=%2F&security=reality&encryption=none&pbk=elJ2Q9-l4T7r3ugfDwBARecWZVA--bHMWeRjaN899i4&fp=qq&type=xhttp&sni=max.ru&sid=bad5722c72#%F0%9F%87%AB%F0%9F%87%AE
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.88.124:8445?security=reality&encryption=none&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%A9%F0%9F%87%AA
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.88.124:8446?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=max.ru&sid=bad5722c72a038#%F0%9F%87%A9%F0%9F%87%AA
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:7888?security=reality&encryption=none&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:7889?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA
