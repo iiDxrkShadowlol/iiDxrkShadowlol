@@ -3,6 +3,9 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
-vless://fea85e6f-752c-03e8-95ab-c9a3ab4c6acc@5.188.141.170:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#%F0%9F%87%A9%F0%9F%87%AA
-vless://fea85e6f-752c-07d0-95ab-c9a3ab4c6acc@5.188.141.170:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#%F0%9F%87%B7%F0%9F%87%BA
-vless://fea85e6f-752c-2af8-95ab-c9a3ab4c6acc@5.188.141.170:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=sun6-22.userapi.com&sid=d8c6b58bcbb0c323#%F0%9F%87%AA%F0%9F%87%AA
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@217.16.18.150:7890?security=reality&encryption=none&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B5%F0%9F%87%B1
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@217.16.18.150:7891?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B5%F0%9F%87%B1
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@146.185.211.162:7443?security=reality&encryption=none&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=bad5722c72a038#%F0%9F%87%AB%F0%9F%87%AE
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@146.185.211.162:8444?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%AB%F0%9F%87%AE
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:7888?security=reality&encryption=none&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:7889?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA
