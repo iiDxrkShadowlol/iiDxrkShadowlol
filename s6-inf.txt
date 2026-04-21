@@ -3,9 +3,5 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
-vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:7888?security=reality&encryption=none&pbk=0y72WqjYlRKbU-VzinCglBJt6ZD7GvDhNnkwDHB8l0Q&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA
-vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:7889?mode=auto&path=%2F&security=reality&encryption=none&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&fp=qq&spx=%2F&type=xhttp&sni=ads.x5.ru&sid=bad5722c72a038#%F0%9F%87%B7%F0%9F%87%BA
-vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.21.69:7889?encryption=none&type=xhttp&security=reality&sni=max.ru&fp=qq&pbk=elJ2Q9-l4T7r3ugfDwBARecWZVA--bHMWeRjaN899i4&sid=bad5722c72&mode=auto#%F0%9F%87%AB%F0%9F%87%AE
-vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.109.196:7890?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&alpn&fp=qq&pbk=NQHJZ88t5mdW_YiTrgzsCwoJO0tgK2CP8Cd1HP-_6Gw&sid=bad5722c72a038&packetEncoding=xudp#%F0%9F%87%B5%F0%9F%87%B1
-vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.109.196:7891?encryption=none&type=xhttp&security=reality&sni=ads.x5.ru&fp=qq&pbk=kFiHVL1rkURP6u8UVc0v7L_9uYiEKK3YaQak51nxuXY&sid=bad5722c72a038&spx=/&mode=auto#%F0%9F%87%B5%F0%9F%87%B1
-vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@51.250.21.69:7888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&alpn&fp=qq&pbk=KqwJrFbgySFbm6C_1VcwQVRRGyUK24kCIBMEQna-5ws&sid=bad5722c72a0&packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%AE
+vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@217.16.24.93:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&packetEncoding=xudp#%F0%9F%87%AA%F0%9F%87%AA
+vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@217.16.21.250:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rutube.ru&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1
