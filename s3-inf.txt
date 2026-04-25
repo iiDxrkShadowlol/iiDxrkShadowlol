@@ -3,8 +3,13 @@
 #support-url: https://t.me/childgotheadache
 #profile-title: childhood VPN
 #profile-update-interval: 1
+
 vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@217.16.27.124:993?security=reality&encryption=none&pbk=5d1FknwpCrOGvqiSnlCg0JuVx3BptawN1BDen38bLho&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%87%B3%F0%9F%87%B1
-‎vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@5.188.140.245:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%87%A9%F0%9F%87%AA
-‎vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:993?security=reality&encryption=none&pbk=FFusAW-FOEkxD8wNqLn1rRDLKq-EA-oKyM_eM2M3JB4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%87%B7%F0%9F%87%BA
-‎vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@217.16.21.221:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=43dcff53849b81e6#%F0%9F%87%AA%F0%9F%87%AA
-‎vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@217.16.22.16:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B8%F0%9F%87%AA
+‎
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@5.188.140.245:993?security=reality&encryption=none&pbk=thz2uZE7rsLT609yRqqHsw9slQmCohEpFqRaoCoKLCs&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%87%A9%F0%9F%87%AA
+‎
+vless://c2ae676b-5eb3-479d-a31e-67cb02ae9e30@109.120.189.170:993?security=reality&encryption=none&pbk=FFusAW-FOEkxD8wNqLn1rRDLKq-EA-oKyM_eM2M3JB4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ad7dab462a323a#%F0%9F%87%B7%F0%9F%87%BA
+‎
+vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@217.16.21.221:8443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=43dcff53849b81e6#%F0%9F%87%AA%F0%9F%87%AA
+‎
+vless://e94c3272-0264-462a-a4a7-fb1ecf1e6b1a@217.16.22.16:443?security=reality&encryption=none&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=rutube.ru&sid=43dcff53849b81e6#%F0%9F%87%B8%F0%9F%87%AA
